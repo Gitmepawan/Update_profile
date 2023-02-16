@@ -15,4 +15,9 @@ Connect with me:
 
 ![Profile views](https://komarev.com/ghpvc/?username=Gitmepawan&color=brightgreen)
 
-![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawanpandeya&show_icons=true&theme=radical)
+![HTML](https://img.shields.io/badge/-HTML-239120?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
