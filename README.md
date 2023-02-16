@@ -15,3 +15,4 @@ Connect with me:
 
 ![Profile views](https://komarev.com/ghpvc/?username=Gitmepawan&color=brightgreen)
 
+![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawanpandeya&show_icons=true&theme=radical)
